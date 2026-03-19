@@ -1,0 +1,7 @@
+curl https://api.github.com/repos/PatPessoa/mcino-Introduction-to-Git-and-GitHub/pulls
+C:\Users\c118385\mcino-Introduction-to-Git-and-GitHub>curl https://api.github.com/repos/PatPessoa/mcino-Introduction-to-Git-and-GitHub/pulls
+[
+
+]
+
+C:\Users\c118385\mcino-Introduction-to-Git-and-GitHub>
