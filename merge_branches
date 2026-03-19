@@ -1,0 +1,7 @@
+git checkout main
+git merge bug-fix-typo
+
+Updating ad95b0a..678ec04
+Fast-forward
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
