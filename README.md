@@ -1,6 +1,11 @@
-# Projeto Final – Introduction to Git and GitHub
+# Simple Interest Calculator
 
-Este repositório contém todos os arquivos e comandos exigidos no projeto final do curso.
+This project includes a Bash script named `simple-interest.sh` that calculates simple interest based on user input.
 
+## How it works
+The script prompts the user to enter:
+- Principal amount (P)
+- Rate of interest (R)
+- Time period in years (T)
 
-This is a bug fix test.
+It then calculates the Simple Interest using the formula:
